@@ -1,0 +1,2 @@
+# ReporteVentas
+Registrar ventas diarias.
